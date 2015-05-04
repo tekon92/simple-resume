@@ -1,0 +1,24 @@
+.jumbotron {
+	background: #fff;
+}
+h1, h2 {
+	text-align: center;
+	font-family: 'comic sans ms';
+}
+
+h2 {
+	text-transform: uppercase;
+}
+
+.heading {
+	color: #808080;
+	text-transform: lowercase;
+}
+
+.progress-bar {
+	background: #000;
+}
+
+.list-unstyled li {
+    margin-bottom: 5em;
+}
