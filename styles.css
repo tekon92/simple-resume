@@ -8,6 +8,7 @@ h1, h2 {
 
 h2 {
 	text-transform: uppercase;
+	margin-bottom: 1.5em;
 }
 
 .heading {
@@ -21,4 +22,8 @@ h2 {
 
 .list-unstyled li {
     margin-bottom: 5em;
+}
+
+.skills-content {
+	margin-left: 3em;
 }
